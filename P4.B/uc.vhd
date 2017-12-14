@@ -8,7 +8,7 @@
 -- Project Name:   Practica 5
 -- Target Devices: Spartan-3 
 -- Tool versions:  ISE 14.1
--- Description:    Unidad de control del divisor secuencial de numeros de 8 bits.
+-- Description:    Unidad de control del divisor secuencial de numeros de 32 bits.
 -- Dependencies: 
 -- Revision: 
 -- Additional Comments: 
