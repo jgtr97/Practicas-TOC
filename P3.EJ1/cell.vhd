@@ -41,7 +41,7 @@ architecture Behavioral of cell is
 		  res: out signed (g_width - 1 downto 0));
 	end component;
 
-   -- Señales intermedias
+   -- SeÃ±ales intermedias
    signal pattern_cell: t_pattern;
 	signal sel_i		: std_logic_vector (2 downto 0);
 	signal count_i		: signed (g_width - 1 downto 0);
@@ -104,7 +104,7 @@ begin
    process (count_in, pattern_cell) is
    begin
 	   if pattern_cell = pattern_rec then
-	   	sel_i <= "001";
+	   	sel_i <= "000";
 			count_out <= count_i;
 	   else
 		   sel_i <= "000";
