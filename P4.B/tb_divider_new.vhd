@@ -8,7 +8,7 @@
 -- Project Name:   Practica 5
 -- Target Devices: Spartan-3 
 -- Tool versions:  ISE 14.1
--- Description:    Testbech del divisor secuencial de numeros 8 bits
+-- Description:    Testbech del divisor secuencial de numeros 32 bits
 -- Dependencies: 
 -- Revision: 
 -- Additional Comments: 
