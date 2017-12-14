@@ -8,8 +8,8 @@
 -- Project Name:   Practica 5
 -- Target Devices: Spartan-3 
 -- Tool versions:  ISE 14.1
--- Description:    Divisor secuencial de numeros de 8 bits mediante el
---                 algoritmo de restauración
+-- Description:    Divisor secuencial de numeros de 32 bits mediante el
+--                 algoritmo de restauraciÃ³n
 -- Dependencies: 
 -- Revision: 
 -- Additional Comments: 
