@@ -8,7 +8,7 @@
 -- Project Name:   Practica 5
 -- Target Devices: Spartan-3 
 -- Tool versions:  ISE 14.1
--- Description:    Camino de datos del divisor secuencial de 8 bits con restauracion
+-- Description:    Camino de datos del divisor secuencial de 32 bits con restauracion
 -- Dependencies: 
 -- Revision: 
 -- Additional Comments: 
